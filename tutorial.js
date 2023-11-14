@@ -33,7 +33,7 @@
 // const resto = 5 % 2
 
 // if(5 % 2 == 0) {
-//john
+
 // }
 
 let listLanguage1 = ['REACT', 'PHP', 'JavaScript'];
